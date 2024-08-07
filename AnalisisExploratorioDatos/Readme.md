@@ -1,2 +1,2 @@
 # Analisis Exploratorio de Datos
-Temas y ejerccios de la materia
+Temas y ejercicios de la materia
